@@ -1,0 +1,9 @@
+smoker,age,diet,pred_decision_tree,pred_nearest_neighbor,pred_nearest_mean
+yes,21,poor,less,less,more
+no,50,good,less,less,less
+no,23,good,less,less,less
+yes,45,poor,more,more,more
+yes,51,good,more,less,more
+no,60,good,less,less,less
+no,15,poor,more,more,more
+no,18,good,less,less,less
