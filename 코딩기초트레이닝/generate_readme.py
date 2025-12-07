@@ -28,7 +28,13 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181927",
         "note": "last element: num_list[-1], .append()",
         "path": "./코딩기초트레이닝/마지막두원소.py"
-    }
+    },
+    {
+        "title": "이어붙인 수",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181928",
+        "note": '"".join( ) 사용',
+        "path": "./코딩기초트레이닝/이어붙인수.py"
+    },
 ]
 
 with open("README.md", "w", encoding="utf-8") as f:
