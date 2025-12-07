@@ -52,6 +52,12 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181889",
         "note": "list slicing",
         "path": "./코딩기초트레이닝/n번째원소까지.py"
+    },
+    {
+        "title": "문자역 붙여서 출력하기",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181946",
+        "note": "fstring, join ",
+        "path": "./코딩기초트레이닝/문자역붙여서출력하기.py"
     }
 ]
 
