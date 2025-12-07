@@ -22,6 +22,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181940",
         "note": "for x in range(x)",
         "path": "./코딩기초트레이닝/문자열곱하기.py"
+    },
+    {
+        "title": "마지막 두 원소",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181927",
+        "note": "last element: num_list[-1], .append()",
+        "path": "./코딩기초트레이닝/마지막두원소.py"
     }
 ]
 
