@@ -16,6 +16,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181938",
         "note": "str(), int()",
         "path": "./코딩기초트레이닝/두수의연산값비교하기.py"
+    },
+    {
+        "title": "문자열곱하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181940",
+        "note": "for x in range(x)",
+        "path": "./코딩기초트레이닝/문자열곱하기.py"
     }
 ]
 
