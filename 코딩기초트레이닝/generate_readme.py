@@ -43,13 +43,13 @@ items = [
     },
     {
         "title": "flag에 따라 다른 값 반환하기",
-        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181933".
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181933",
         "note": "if-else 문",
         "path": "./코딩기초트레이닝/flag에따라다른값반환하기.py"
     },
     {
         "title": "n번쨰 원소까지",
-        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181889".
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181889",
         "note": "list slicing",
         "path": "./코딩기초트레이닝/n번째원소까지.py"
     }
