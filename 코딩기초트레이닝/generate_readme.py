@@ -40,6 +40,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181920",
         "note": "list comprehension",
         "path": "./코딩기초트레이닝/카운트업.py"
+    },
+    {
+        "title": "flag에 따라 다른 값 반환하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181933".
+        "note": "if-else 문",
+        "path": "./코딩기초트레이닝/flag에따라다른값반환하기.py"
     }
 ]
 
