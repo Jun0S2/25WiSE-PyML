@@ -322,6 +322,30 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181878",
         "note": "in operator with lower()",
         "path": "./원하는문자열찾기.py"
+    },
+    {
+        "title" : "배얄만들기3",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181832",
+        "note": "[복습필요] unpack in pythion",
+        "path": "./배열만들기3.py"
+    },
+    {
+        "title": "길이에 따른 연산",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181879",
+        "note": "math library,
+        "path": "./길이에따른연산.py"
+    },
+    {
+        "title": "조건에 맞게 수열 변환하기2",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181882",
+        "note": "[복습필요] array 안에 if - else if 문 사용하기",
+        "path": "./조건에맞게수열변환하기2.py"
+    },
+    {
+        "title": "홀수 vs 짝수",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181887",
+        "note": "sum() with list comprehension",
+        "path": "./홀수vs짝수.py"
     }
 ]
 
