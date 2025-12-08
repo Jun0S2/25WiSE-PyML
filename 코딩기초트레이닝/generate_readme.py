@@ -191,6 +191,18 @@ items = [
         "note": "join() with for loop",
         "path": "./꼬리문자열.py"
     },
+    {
+        "title": "0 떼기",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181847",
+        "note": "lstrip()",
+        "path": "./0떼기.py"
+    },
+    {
+        "title": "부분 문자열",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181842",
+        "note": "string substring",
+        "path": "./부분문자열.py"
+    }
 ]
 
 with open("README.md", "w", encoding="utf-8") as f:

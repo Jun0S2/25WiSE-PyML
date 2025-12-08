@@ -34,3 +34,5 @@
 | 정수찾기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | in operator-> has element by using in | [링크](./4정수찾기.py) |
 | 배열의 원소 삭제하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | not in operator | [링크](./배열의원소삭제하기.py) |
 | 꼬리문자열 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | join() with for loop | [링크](./꼬리문자열.py) |
+| 0 떼기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | lstrip() | [링크](./0떼기.py) |
+| 부분 문자열 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | string substring | [링크](./부분문자열.py) |
