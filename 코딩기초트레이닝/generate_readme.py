@@ -172,6 +172,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=python3",
         "note": "replace(), find substring : substring in string",
         "path": "./문자열바꿔서찾기.py"
+    },
+    {
+        "title": "정수찾기",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181840",
+        "note": "in operator-> has element by using in",
+        "path": "./정수찾기.py"
     }
 ]
 
