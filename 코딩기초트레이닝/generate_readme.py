@@ -130,6 +130,18 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181919",
         "note": "while loop",
         "path": "./콜라츠수열만들기.py"
+    },
+    {
+        "title": "주사위게임2",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181930",
+        "note": "set을 사용하여 중복 제거",
+        "path": "./주사위게임2.py"
+    },
+    {
+        "title": "문자열 돌리기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181945",
+        "note": "for loop",
+        "path": "./문자열돌리기.py"
     }
 ]
 

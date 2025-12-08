@@ -24,3 +24,5 @@
 | 접두사인지 확인하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | len() | [링크](./접두사인지확인하기.py) |
 | 글자 이어 붙여 문자열 만들기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | for loop | [링크](./글자이어붙여문자열만들기.py) |
 | 콜라츠 수열 만들기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | while loop | [링크](./콜라츠수열만들기.py) |
+| 주사위게임2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | set을 사용하여 중복 제거 | [링크](./주사위게임2.py) |
+| 문자열 돌리기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | for loop | [링크](./문자열돌리기.py) |
