@@ -166,6 +166,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181850?language=python3",
         "note": "int and float",
         "path": "./정수부분.py"
+    },
+    {
+        "title": "문자열 바꿔서 찾기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=python3",
+        "note": "replace(), find substring : substring in string",
+        "path": "./문자열바꿔서찾기.py"
     }
 ]
 
