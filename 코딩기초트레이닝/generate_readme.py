@@ -160,6 +160,12 @@ items = [
         "link":"https://school.programmers.co.kr/learn/courses/30/lessons/181834",
         "note":"enumerate()",
         "path": "./l로만들기.py"
+    },
+    {
+        "title": "정수부분",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181850?language=python3",
+        "note": "int and float",
+        "path": "./정수부분.py"
     }
 ]
 
