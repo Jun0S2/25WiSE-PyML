@@ -56,8 +56,14 @@ items = [
     {
         "title": "문자역 붙여서 출력하기",
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181946",
-        "note": "fstring, join ",
+        "note": "fstring, join()",
         "path": "./코딩기초트레이닝/문자역붙여서출력하기.py"
+    },
+    {
+        "title": "홀짝에따라다른값반환하기",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181935",
+        "note": "삼항 연산 심화, sum(), if-else",
+        "path": "./코딩기초트레이닝/홀짝에따라다른값반환.py"
     }
 ]
 
