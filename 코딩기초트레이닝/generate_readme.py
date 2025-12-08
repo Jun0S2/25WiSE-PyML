@@ -226,6 +226,48 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181849",
         "note": "sum()",
         "path": "./문자열정수의합.py"
+    },
+    {
+        "title": "문자열을 정수로 변환하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181848",
+        "note": "int()",
+        "path": "./문자열을정수로변환하기.py"
+    },
+    {
+        "title" : "뒤에서 n등까지",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181853",
+        "note": "sort() and slicing",
+        "path": "./뒤에서n등까지.py"
+    },
+    {
+        "title" : "배열의 길이에 따라 다른 연산하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181854?language=python3",
+        "note": "[복습필요] complicated statment in list comprehension",
+        "path": "./배열의길이에따라다른연산하기.py"
+    },
+    {
+        "title": "배열비교하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181856",
+        "note": "[복습권장] nested ternary",
+        "path": "./배열비교하기.py"
+    },
+    {
+        "title": "주사위 게임1",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181839",
+        "note": "nested ternary",
+        "path": "./주사위게임1.py"
+    },
+    {
+        "title": "ad 제거하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181870",
+        "note": "list comprehension with if condition",
+        "path": "./ad제거하기.py"
+    },
+    {
+        "title": "배열의 원소만큼 추가하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181861",
+        "note": "[복습필요] nested for loop in list comprehension",
+        "path": "./배열의원소만큼추가하기.py"
     }
 ]
 

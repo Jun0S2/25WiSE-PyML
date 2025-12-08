@@ -40,3 +40,10 @@
 | 문자열 변환 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | str() | [링크](./문자열변환.py) |
 | 뒤에서 5등위로 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | sort() | [링크](./뒤에서5등위로.py) |
 | 문자열 정수의 합 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | sum() | [링크](./문자열정수의합.py) |
+| 문자열을 정수로 변환하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181848) | int() | [링크](./문자열을정수로변환하기.py) |
+| 뒤에서 n등까지 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | sort() and slicing | [링크](./뒤에서n등까지.py) |
+| 배열의 길이에 따라 다른 연산하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181854?language=python3) | [복습필요] complicated statment in list comprehension | [링크](./배열의길이에따라다른연산하기.py) |
+| 배열비교하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [복습권장] nested ternary | [링크](./배열비교하기.py) |
+| 주사위 게임1 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | nested ternary | [링크](./주사위게임1.py) |
+| ad 제거하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | list comprehension with if condition | [링크](./ad제거하기.py) |
+| 배열의 원소만큼 추가하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [복습필요] nested for loop in list comprehension | [링크](./배열의원소만큼추가하기.py) |
