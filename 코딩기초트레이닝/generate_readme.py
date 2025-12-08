@@ -177,14 +177,20 @@ items = [
         "title": "정수찾기",
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181840",
         "note": "in operator-> has element by using in",
-        "path": "./정수찾기.py"
+        "path": "./4정수찾기.py"
     },
     {
         "title": "배열의 원소 삭제하기",
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181844",
         "note": "not in operator",
         "path": "./배열의원소삭제하기.py"
-    }
+    },
+    {
+        "title": "꼬리문자열",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181841",
+        "note": "join() with for loop",
+        "path": "./꼬리문자열.py"
+    },
 ]
 
 with open("README.md", "w", encoding="utf-8") as f:
