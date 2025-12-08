@@ -100,6 +100,18 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181929",
         "note": "math.prod(), **2",
         "path": "./원소들의곱과합.py"
+    },
+    {
+        "title": "공배수",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181936",
+        "note": "and operator - not &",
+        "path": "./공배수.py"
+    },
+    {
+        "title": "홀짝구분하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181944",
+        "note": "print",
+        "path": "./홀짝구분하기.py"
     }
 ]
 

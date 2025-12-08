@@ -19,3 +19,5 @@
 | 더 크게 합치기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | str() | [링크](./더크게합치기.py) |
 | 문자 리스트를 문자열로 변환하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | join(),for lop | [링크](./문자리스트를문자열로변환하기.py) |
 | 원소들의곱과합 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | math.prod(), **2 | [링크](./원소들의곱과합.py) |
+| 공배수 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | and operator - not & | [링크](./공배수.py) |
+| 홀짝구분하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | print | [링크](./홀짝구분하기.py) |
