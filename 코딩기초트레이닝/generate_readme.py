@@ -88,6 +88,12 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181939",
         "note": "str()",
         "path": "./더크게합치기.py"
+    },
+    {
+        "title": "문자 리스트를 문자열로 변환하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181911",
+        "note": "join(),for lop",
+        "path": "./문자리스트를문자열로변환하기.py"
     }
 ]
 
