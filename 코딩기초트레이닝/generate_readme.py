@@ -73,7 +73,7 @@ items = [
     },
     {
         "title" : "문자열 뒤의 n 글자",
-        " link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181910",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181910",
         "note": "len(str)",
         "path": "./코딩기초트레이닝/문자열뒤의ng글자.py"
     }

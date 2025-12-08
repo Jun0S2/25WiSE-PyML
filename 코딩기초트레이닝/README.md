@@ -11,3 +11,7 @@
 | 카운트 업 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | list comprehension | [링크](./코딩기초트레이닝/카운트업.py) |
 | flag에 따라 다른 값 반환하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | if-else 문 | [링크](./코딩기초트레이닝/flag에따라다른값반환하기.py) |
 | n번쨰 원소까지 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181889) | list slicing | [링크](./코딩기초트레이닝/n번째원소까지.py) |
+| 문자역 붙여서 출력하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | fstring, join() | [링크](./코딩기초트레이닝/문자역붙여서출력하기.py) |
+| 홀짝에따라다른값반환하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | 삼항 연산 심화, sum(), if-else | [링크](./코딩기초트레이닝/홀짝에따라다른값반환.py) |
+| 문자열 앞의 n 글자 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | list slice | [링크](./코딩기초트레이닝/문자열앞의ng글자.py) |
+| 문자열 뒤의 n 글자 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | len(str) | [링크](./코딩기초트레이닝/문자열뒤의ng글자.py) |
