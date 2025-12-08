@@ -124,6 +124,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181915",
         "note": "for loop",
         "path": "./글자이어붙여문자열만들기.py"
+    },
+    {
+        "title" : "콜라츠 수열 만들기",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181919",
+        "note": "while loop",
+        "path": "./콜라츠수열만들기.py"
     }
 ]
 
