@@ -94,6 +94,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181911",
         "note": "join(),for lop",
         "path": "./문자리스트를문자열로변환하기.py"
+    },
+    {
+        "title" : "원소들의곱과합",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181929",
+        "note": "math.prod(), **2",
+        "path": "./원소들의곱과합.py"
     }
 ]
 
