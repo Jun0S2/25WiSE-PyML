@@ -47,3 +47,11 @@
 | 주사위 게임1 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | nested ternary | [링크](./주사위게임1.py) |
 | ad 제거하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | list comprehension with if condition | [링크](./ad제거하기.py) |
 | 배열의 원소만큼 추가하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [복습필요] nested for loop in list comprehension | [링크](./배열의원소만큼추가하기.py) |
+| x 사이의 개수 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181867) | [복습권장] split() | [링크](./x사이의개수.py) |
+| 공백으로 구분하기 2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181868?language=python3) | split() | [링크](./공백으로구분하기2.py) |
+| rny_string | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=python3) | replace() | [링크](./rny_string.py) |
+| 공백으로 구분하기 1 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=python3) | split() | [링크](./공백으로구분하기1.py) |
+| 배열에서 문자열 대소문자 변환하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181875?language=python3) | [복습필요] for loop with if-else | [링크](./배열에서문자열대소문자변환하기.py) |
+| 간단한 식 계산하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181865) | [복습필요] multiple input with split() in string | [링크](./간단한식계산하기.py) |
+| 소문자로 바꾸기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | lower() | [링크](./소문자로바꾸기.py) |
+| 가까운 1 찾기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | [복습필요] enumerate() - for loop with specific index as start | [링크](./가까운1찾기.py) |

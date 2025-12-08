@@ -268,6 +268,60 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181861",
         "note": "[복습필요] nested for loop in list comprehension",
         "path": "./배열의원소만큼추가하기.py"
+    },
+    {
+        "title": "x 사이의 개수",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181867",
+        "note": "[복습권장] split()",
+        "path": "./x사이의개수.py"
+    },
+    {
+        "title": "공백으로 구분하기 2",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181868?language=python3",
+        "note": "split()",
+        "path": "./공백으로구분하기2.py"
+    },
+    {
+        "title" : "rny_string",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=python3",
+        "note": "replace()",
+        "path": "./rny_string.py"
+    },
+    {
+        "title": "공백으로 구분하기 1",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=python3",
+        "note": "split()",
+        "path": "./공백으로구분하기1.py"
+    },
+    {
+        "title": "배열에서 문자열 대소문자 변환하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181875?language=python3",
+        "note": "[복습필요] for loop with if-else",
+        "path": "./배열에서문자열대소문자변환하기.py"
+    },
+    {
+        "title": "간단한 식 계산하기",  
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181865",
+        "note": "[복습필요] multiple input with split() in string",
+        "path": "./간단한식계산하기.py"
+    },
+    {
+        "title": "소문자로 바꾸기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181876",
+        "note": "lower()",
+        "path": "./소문자로바꾸기.py"
+    },
+    {
+        "title": "가까운 1 찾기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181898",
+        "note": "[복습필요] enumerate() - for loop with specific index as start",
+        "path": "./가까운1찾기.py"
+    },
+    {
+        "title": "원하는 문자열 찾기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181878",
+        "note": "in operator with lower()",
+        "path": "./원하는문자열찾기.py"
     }
 ]
 
