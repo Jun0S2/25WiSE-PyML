@@ -202,6 +202,30 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181842",
         "note": "string substring",
         "path": "./부분문자열.py"
+    },
+    {
+        "title": "부분문자열인지 확인하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181843",
+        "note": "string substring with in operator",
+        "path": "./부분문자열인지확인하기.py"
+    },
+    {
+        "title": "문자열 변환",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181845",
+        "note": "str()",
+        "path": "./문자열변환.py"
+    },
+    {
+        "title": "뒤에서 5등위로",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181852",
+        "note": "sort()",
+        "path": "./뒤에서5등위로.py"
+    },
+    {
+        "title": "문자열 정수의 합",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181849",
+        "note": "sum()",
+        "path": "./문자열정수의합.py"
     }
 ]
 
