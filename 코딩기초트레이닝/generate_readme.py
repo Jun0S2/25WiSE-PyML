@@ -69,13 +69,13 @@ items = [
         "title": "문자열 앞의 n 글자",
         "link" :"https://school.programmers.co.kr/learn/courses/30/lessons/181907",
         "note": "list slice",
-        "path": "./문자열앞의ng글자.py"
+        "path": "./문자열앞의n글자.py"
     },
     {
         "title" : "문자열 뒤의 n 글자",
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181910",
         "note": "len(str)",
-        "path": "./문자열뒤의ng글자.py"
+        "path": "./문자열뒤의n글자.py"
     }, 
     {
         "title" : "첫번째로 나오는 음수",
