@@ -142,6 +142,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181945",
         "note": "for loop",
         "path": "./문자열돌리기.py"
+    },
+    {
+        "title": "덧셈식 출력하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181947",
+        "note": "fstring",
+        "path": "./덧셈식출력하기.py"
     }
 ]
 
