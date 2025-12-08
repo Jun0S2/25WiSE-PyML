@@ -358,6 +358,24 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181914",
         "note": "sum() with for loop",
         "path": "./9로나눈나머지.py"
+    },
+    {
+        "title" : "n보다 커질 때까지 더하기",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181884",
+        "note": "list comprehension이 불가능한 경우",
+        "path": "./n보다커질때까지더하기.py"
+    },
+    {
+        "title": "문자열 겹쳐쓰기",
+        "link":"https://school.programmers.co.kr/learn/courses/30/lessons/181943",
+        "note": "for loop with index",
+        "path": "./문자열겹쳐쓰기.py"
+    },
+    {
+        "title": "문자열 섞기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181942",
+        "note": "while loop",
+        "path": "./문자열섞기.py"
     }
 ]
 

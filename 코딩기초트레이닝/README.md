@@ -62,3 +62,6 @@
 | 홀수 vs 짝수 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181887) | sum() with list comprehension | [링크](./홀수vs짝수.py) |
 | 할일목록 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | enumerate() with for loop and if condition | [링크](./할일목록.py) |
 | 9로 나눈 나머지 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | sum() with for loop | [링크](./9로나눈나머지.py) |
+| n보다 커질 때까지 더하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | list comprehension이 불가능한 경우 | [링크](./n보다커질때까지더하기.py) |
+| 문자열 겹쳐쓰기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | for loop with index | [링크](./문자열겹쳐쓰기.py) |
+| 문자열 섞기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181942) | while loop | [링크](./문자열섞기.py) |
