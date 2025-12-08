@@ -55,3 +55,9 @@
 | 간단한 식 계산하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181865) | [복습필요] multiple input with split() in string | [링크](./간단한식계산하기.py) |
 | 소문자로 바꾸기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | lower() | [링크](./소문자로바꾸기.py) |
 | 가까운 1 찾기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | [복습필요] enumerate() - for loop with specific index as start | [링크](./가까운1찾기.py) |
+| 원하는 문자열 찾기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | in operator with lower() | [링크](./원하는문자열찾기.py) |
+| 배얄만들기3 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [복습필요] unpack in pythion | [링크](./배열만들기3.py) |
+| 길이에 따른 연산 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | math library | [링크](./길이에따른연산.py) |
+| 조건에 맞게 수열 변환하기2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | [복습필요] array 안에 if - else if 문 사용하기 | [링크](./조건에맞게수열변환하기2.py) |
+| 홀수 vs 짝수 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181887) | sum() with list comprehension | [링크](./홀수vs짝수.py) |
+| 할일목록 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | enumerate() with for loop and if condition | [링크](./할일목록.py) |

@@ -332,7 +332,7 @@ items = [
     {
         "title": "길이에 따른 연산",
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181879",
-        "note": "math library,
+        "note": "math library",
         "path": "./길이에따른연산.py"
     },
     {
@@ -346,6 +346,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181887",
         "note": "sum() with list comprehension",
         "path": "./홀수vs짝수.py"
+    },
+    {
+        "title": "할일목록",
+        "link":"https://school.programmers.co.kr/learn/courses/30/lessons/181885",
+        "note": "enumerate() with for loop and if condition",
+        "path": "./할일목록.py"
     }
 ]
 
