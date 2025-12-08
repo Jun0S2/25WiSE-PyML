@@ -112,6 +112,18 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181944",
         "note": "print",
         "path": "./홀짝구분하기.py"
+    },
+    {
+        "title": "접두사인지 확인하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181906",
+        "note":  "len()",
+        "path": "./접두사인지확인하기.py"
+    },
+    {
+        "title": "글자 이어 붙여 문자열 만들기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181915",
+        "note": "for loop",
+        "path": "./글자이어붙여문자열만들기.py"
     }
 ]
 
