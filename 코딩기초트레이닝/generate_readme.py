@@ -64,6 +64,18 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181935",
         "note": "삼항 연산 심화, sum(), if-else",
         "path": "./코딩기초트레이닝/홀짝에따라다른값반환.py"
+    },
+    {
+        "title": "문자열 앞의 n 글자",
+        "link" :"https://school.programmers.co.kr/learn/courses/30/lessons/181907",
+        "note": "list slice",
+        "path": "./코딩기초트레이닝/문자열앞의ng글자.py"
+    },
+    {
+        "title" : "문자열 뒤의 n 글자",
+        " link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181910",
+        "note": "len(str)",
+        "path": "./코딩기초트레이닝/문자열뒤의ng글자.py"
     }
 ]
 
