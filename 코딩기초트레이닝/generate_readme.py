@@ -148,6 +148,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181947",
         "note": "fstring",
         "path": "./덧셈식출력하기.py"
+    },
+    {
+        "title": "조건에 맞게 수열 변환하기3",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181835",
+        "note": "using if and for loop together inside array",
+        "path": "./조건에맞게수열변환하기3.py"
     }
 ]
 
