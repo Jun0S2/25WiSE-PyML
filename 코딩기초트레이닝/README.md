@@ -36,3 +36,7 @@
 | 꼬리문자열 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | join() with for loop | [링크](./꼬리문자열.py) |
 | 0 떼기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | lstrip() | [링크](./0떼기.py) |
 | 부분 문자열 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | string substring | [링크](./부분문자열.py) |
+| 부분문자열인지 확인하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | string substring with in operator | [링크](./부분문자열인지확인하기.py) |
+| 문자열 변환 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | str() | [링크](./문자열변환.py) |
+| 뒤에서 5등위로 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | sort() | [링크](./뒤에서5등위로.py) |
+| 문자열 정수의 합 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | sum() | [링크](./문자열정수의합.py) |
