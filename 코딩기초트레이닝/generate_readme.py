@@ -82,6 +82,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181896",
         "note": "enumerate()",
         "path": "./첫번째로나오는음수.py"
+    },
+    {
+        "title": "더 크게 합치기",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181939",
+        "note": "str()",
+        "path": "./더크게합치기.py"
     }
 ]
 

@@ -16,3 +16,4 @@
 | 문자열 앞의 n 글자 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | list slice | [링크](./문자열앞의n글자.py) |
 | 문자열 뒤의 n 글자 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | len(str) | [링크](./문자열뒤의n글자.py) |
 | 첫번째로 나오는 음수 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | enumerate() | [링크](./첫번째로나오는음수.py) |
+| 더 크게 합치기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | str() | [링크](./더크게합치기.py) |
