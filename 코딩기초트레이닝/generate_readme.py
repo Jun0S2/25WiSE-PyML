@@ -352,6 +352,12 @@ items = [
         "link":"https://school.programmers.co.kr/learn/courses/30/lessons/181885",
         "note": "enumerate() with for loop and if condition",
         "path": "./할일목록.py"
+    },
+    {
+        "title": "9로 나눈 나머지",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181914",
+        "note": "sum() with for loop",
+        "path": "./9로나눈나머지.py"
     }
 ]
 

@@ -61,3 +61,4 @@
 | 조건에 맞게 수열 변환하기2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | [복습필요] array 안에 if - else if 문 사용하기 | [링크](./조건에맞게수열변환하기2.py) |
 | 홀수 vs 짝수 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181887) | sum() with list comprehension | [링크](./홀수vs짝수.py) |
 | 할일목록 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | enumerate() with for loop and if condition | [링크](./할일목록.py) |
+| 9로 나눈 나머지 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | sum() with for loop | [링크](./9로나눈나머지.py) |
