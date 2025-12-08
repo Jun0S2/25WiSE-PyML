@@ -15,3 +15,4 @@
 | 홀짝에따라다른값반환하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | 삼항 연산 심화, sum(), if-else | [링크](./코딩기초트레이닝/홀짝에따라다른값반환.py) |
 | 문자열 앞의 n 글자 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | list slice | [링크](./코딩기초트레이닝/문자열앞의ng글자.py) |
 | 문자열 뒤의 n 글자 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | len(str) | [링크](./코딩기초트레이닝/문자열뒤의ng글자.py) |
+| 첫번째로 나오는 음수 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | enumerate() | [링크](./코딩기초트레이닝/첫번째로나오는음수.py) |

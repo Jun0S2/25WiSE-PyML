@@ -76,6 +76,12 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181910",
         "note": "len(str)",
         "path": "./코딩기초트레이닝/문자열뒤의ng글자.py"
+    }, 
+    {
+        "title" : "첫번째로 나오는 음수",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181896",
+        "note": "enumerate()",
+        "path": "./코딩기초트레이닝/첫번째로나오는음수.py"
     }
 ]
 
