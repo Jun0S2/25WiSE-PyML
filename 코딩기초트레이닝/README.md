@@ -32,3 +32,4 @@
 | 정수부분 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181850?language=python3) | int and float | [링크](./정수부분.py) |
 | 문자열 바꿔서 찾기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=python3) | replace(), find substring : substring in string | [링크](./문자열바꿔서찾기.py) |
 | 정수찾기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | in operator-> has element by using in | [링크](./정수찾기.py) |
+| 배열의 원소 삭제하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | not in operator | [링크](./배열의원소삭제하기.py) |
