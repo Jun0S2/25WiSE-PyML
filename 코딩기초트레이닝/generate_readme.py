@@ -154,6 +154,12 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181835",
         "note": "using if and for loop together inside array",
         "path": "./조건에맞게수열변환하기3.py"
+    },
+    {
+        "title" : "l로만들기",
+        "link":"https://school.programmers.co.kr/learn/courses/30/lessons/181834",
+        "note":"enumerate()",
+        "path": "./l로만들기.py"
     }
 ]
 

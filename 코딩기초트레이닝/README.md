@@ -28,3 +28,4 @@
 | 문자열 돌리기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | for loop | [링크](./문자열돌리기.py) |
 | 덧셈식 출력하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181947) | fstring | [링크](./덧셈식출력하기.py) |
 | 조건에 맞게 수열 변환하기3 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | using if and for loop together inside array | [링크](./조건에맞게수열변환하기3.py) |
+| l로만들기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | enumerate() | [링크](./l로만들기.py) |
