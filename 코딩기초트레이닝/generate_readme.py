@@ -376,6 +376,54 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181942",
         "note": "while loop",
         "path": "./문자열섞기.py"
+    },
+    {
+        "title": "수 조작하기 1",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181926",
+        "note": "dictionary 사용법",
+        "path": "./수조작하기1.py"
+    },
+    {
+        "title": "n개간격의 원소들",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181888",
+        "note": "list slicing with step",
+        "path": "./n개간격의원소들.py"
+    },
+    {
+        "title": "순서바꾸기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181891",
+        "note": "list slicing",
+        "path": "./순서바꾸기.py"
+    },
+    {
+        "title": "A강조하기",
+        "link" :"https://school.programmers.co.kr/learn/courses/30/lessons/181874",
+        "note": 'lower(), replace() 사용법',
+        "path": "./A강조하기.py"
+    },
+    {
+        "title": "5명씩",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181886",
+        "note": "enumerate() with if condition and list comprehension",
+        "path": "./5명씩.py"
+    },
+    {
+        "title": "배열만들기1",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181901",
+        "note": "list comprehension with if condition",
+        "path": "./배열만들기1.py"
+    },
+    {
+        "title": "부분문자열 이어 붙이기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181911",
+        "note" : "[복습필요] zip() 사용법",
+        "path": "./부분문자열이어붙이기.py"        
+    },
+    {
+        "title" : "카운트다운",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181899",
+        "note": "sort descending",
+        "path": "./카운트다운.py"
     }
 ]
 

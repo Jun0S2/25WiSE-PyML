@@ -65,3 +65,11 @@
 | n보다 커질 때까지 더하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | list comprehension이 불가능한 경우 | [링크](./n보다커질때까지더하기.py) |
 | 문자열 겹쳐쓰기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | for loop with index | [링크](./문자열겹쳐쓰기.py) |
 | 문자열 섞기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181942) | while loop | [링크](./문자열섞기.py) |
+| 수 조작하기 1 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | dictionary 사용법 | [링크](./수조작하기1.py) |
+| n개간격의 원소들 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | list slicing with step | [링크](./n개간격의원소들.py) |
+| 순서바꾸기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | list slicing | [링크](./순서바꾸기.py) |
+| A강조하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | lower(), replace() 사용법 | [링크](./A강조하기.py) |
+| 5명씩 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | enumerate() with if condition and list comprehension | [링크](./5명씩.py) |
+| 배열만들기1 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | list comprehension with if condition | [링크](./배열만들기1.py) |
+| 부분문자열 이어 붙이기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [복습필요] zip() 사용법 | [링크](./부분문자열이어붙이기.py) |
+| 카운트다운 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | sort descending | [링크](./카운트다운.py) |
