@@ -73,3 +73,11 @@
 | 배열만들기1 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | list comprehension with if condition | [링크](./배열만들기1.py) |
 | 부분문자열 이어 붙이기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [복습필요] zip() 사용법 | [링크](./부분문자열이어붙이기.py) |
 | 카운트다운 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | sort descending | [링크](./카운트다운.py) |
+| 접미사배열 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | list slicing and sort() | [링크](./접미사배열.py) |
+| 수 조작하기 2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | dictionary | [링크](./수조작하기2.py) |
+| 특별한이차원배열2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [복습필요] transpose with zip() | [링크](./특별한이차원배열2.py) |
+| 특별한이차원배열1 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | [복습필요] identity matrix with list comprehension | [링크](./특별한이차원배열1.py) |
+| n번째원소부터 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181892) | list slicing | [링크](./n번째원소부터.py) |
+| 접미사인지 확인하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | endswith() | [링크](./접미사인지확인하기.py) |
+| 문자열 잘라서 정렬하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181866) | sorted() with key parameter, remove blank string with if condition, split | [링크](./문자열잘라서정렬하기.py) |
+| 조건문자열 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | if statement | [링크](./조건문자열.py) |

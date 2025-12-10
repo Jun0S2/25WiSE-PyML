@@ -424,6 +424,54 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181899",
         "note": "sort descending",
         "path": "./카운트다운.py"
+    },
+    {
+        "title": "접미사배열",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181909",
+        "note": "list slicing and sort()",
+        "path": "./접미사배열.py"
+    },
+    {
+        "title": "수 조작하기 2",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181925",
+        "note": "dictionary",
+        "path": "./수조작하기2.py"
+    },
+    {
+        "title": "특별한이차원배열2",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181831",
+        "note": "[복습필요] transpose with zip()",
+        "path": "./특별한이차원배열2.py"
+    },
+    {
+        "title": "특별한이차원배열1",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181833",
+        "note": "[복습필요] identity matrix with list comprehension",
+        "path": "./특별한이차원배열1.py"
+    },
+    {
+        "title": "n번째원소부터",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181892",
+        "note": "list slicing",
+        "path": "./n번째원소부터.py"
+    },
+    {
+        "title": "접미사인지 확인하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181908",
+        "note" :"endswith()",
+        "path": "./접미사인지확인하기.py"
+    },
+    {
+        "title": "문자열 잘라서 정렬하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181866",
+        "note": "sorted() with key parameter, remove blank string with if condition, split",
+        "path": "./문자열잘라서정렬하기.py"
+    }, 
+    {
+        "title": "조건문자열",
+        "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181934",
+        "note": "if statement",
+        "path": "./조건문자열.py"
     }
 ]
 
