@@ -11,4 +11,4 @@ def solution(code):
         if idx % 2 == mode:
             result.append(ch)
 
-    return ''.join(result)
+    return ''.join(result) if result else "EMPTY"
