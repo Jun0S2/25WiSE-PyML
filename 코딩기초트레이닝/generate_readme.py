@@ -472,6 +472,36 @@ items = [
         "link" : "https://school.programmers.co.kr/learn/courses/30/lessons/181934",
         "note": "if statement",
         "path": "./조건문자열.py"
+    },
+    {
+        "title": "코드처리하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181932",
+        "note": "[복습필요] toggle in python - dont use boolean, use int. + if statment optimization",
+        "path": "./코드처리하기.py"
+    },
+    {
+        "title": "등차수열의특정한항만더하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181931",
+        "note": "arithmetic sequence specific terms sum",
+        "path": "./등차수열의특정한항만더하기.py"
+    },
+    {
+        "title": "수열과구간쿼리2",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181923",
+        "note": "find max in subarray with condition",
+        "path": "./수열과구간쿼리2.py"
+    },
+    {
+        "title": "수열과구간쿼리3",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181924",
+        "note": "[복습필요] partial swap in python",
+        "path": "./수열과구간쿼리3.py"
+    },
+    {
+        "title": "글자지우기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181900",
+        "note": "[복습필요] set for faster search + list comprehension for exclusion",
+        "path": "./글자지우기.py"
     }
 ]
 

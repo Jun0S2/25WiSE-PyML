@@ -81,3 +81,8 @@
 | 접미사인지 확인하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | endswith() | [링크](./접미사인지확인하기.py) |
 | 문자열 잘라서 정렬하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181866) | sorted() with key parameter, remove blank string with if condition, split | [링크](./문자열잘라서정렬하기.py) |
 | 조건문자열 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | if statement | [링크](./조건문자열.py) |
+| 코드처리하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [복습필요] toggle in python - dont use boolean, use int. + if statment optimization | [링크](./코드처리하기.py) |
+| 등차수열의특정한항만더하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | arithmetic sequence specific terms sum | [링크](./등차수열의특정한항만더하기.py) |
+| 수열과구간쿼리2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | find max in subarray with condition | [링크](./수열과구간쿼리2.py) |
+| 수열과구간쿼리3 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [복습필요] partial swap in python | [링크](./수열과구간쿼리3.py) |
+| 글자지우기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | [복습필요] set for faster search + list comprehension for exclusion | [링크](./글자지우기.py) |
