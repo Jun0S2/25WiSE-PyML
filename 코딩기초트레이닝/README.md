@@ -86,3 +86,4 @@
 | 수열과구간쿼리2 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | find max in subarray with condition | [링크](./수열과구간쿼리2.py) |
 | 수열과구간쿼리3 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [복습필요] partial swap in python | [링크](./수열과구간쿼리3.py) |
 | 글자지우기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | [복습필요] set for faster search + list comprehension for exclusion | [링크](./글자지우기.py) |
+| 날짜비교하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181838) | [복습필요] tuple for lexicographical comparison + any expression | [링크](./날짜비교하기.py) |

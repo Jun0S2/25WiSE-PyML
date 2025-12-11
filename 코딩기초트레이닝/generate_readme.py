@@ -502,6 +502,12 @@ items = [
         "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181900",
         "note": "[복습필요] set for faster search + list comprehension for exclusion",
         "path": "./글자지우기.py"
+    },
+    {
+        "title": "날짜비교하기",
+        "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181838",
+        "note": "[복습필요] tuple for lexicographical comparison + any expression",
+        "path": "./날짜비교하기.py"
     }
 ]
 
