@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.term {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.organizers {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.presenter {
+    text-decoration: underline;
+}
