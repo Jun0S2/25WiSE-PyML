@@ -1,0 +1,27 @@
+repos:
+  - repo: local
+    hooks:
+      - id: ruff
+        name: Ruff Linter
+        entry: ruff check . --fix
+        language: system
+        always_run: true
+        pass_filenames: false
+      - id: ruff-format
+        name: Ruff Formatter
+        entry: ruff format .
+        language: system
+        always_run: true
+        pass_filenames: false
+      - id: mypy
+        name: Mypy
+        entry: dmypy run .
+        language: system
+        always_run: true
+        pass_filenames: false
+      - id: vulture
+        name: Vulture
+        entry: vulture --config pyproject.toml
+        language: system
+        always_run: true 
+        pass_filenames: false

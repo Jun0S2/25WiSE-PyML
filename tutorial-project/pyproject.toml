@@ -1,0 +1,68 @@
+[project]
+name = "pyml-project"
+version = "0.1.0"
+description = "PyML Project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    # Align with exam environment
+    "torch==2.2.2",  # 2.2.x for intel macbooks
+    "numpy<2",  # Nov 2024: torch 2.2.2 and numpy 2.1.2 have conflicts in some cases
+    "matplotlib==3.10.3",
+    "tqdm==4.67.1",
+    "jupyterlab==4.4.4",
+    "pyyaml>=6.0.3",
+]
+
+[project.optional-dependencies]
+dev = [
+    "mypy",
+    "ruff",
+    "pytest",
+    "vulture",
+    "pre-commit",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["core", "results"]
+
+[tool.mypy]
+ignore_missing_imports = true
+check_untyped_defs = true
+explicit_package_bases = true
+warn_unreachable = true
+warn_redundant_casts = true
+# Performance optimizations
+cache_fine_grained = true
+incremental = true
+sqlite_cache = true
+follow_imports = "skip"
+
+[tool.ruff]
+line-length = 150
+target-version = "py312"
+
+[tool.ruff.lint]
+select = [
+    "F",    # Pyflakes
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "I",    # isort
+    "N",    # pep8-naming
+    "UP",   # pyupgrade
+    "B",    # flake8-bugbear
+]
+ignore = [
+    "E402",  # Ignore module level import not at top of file
+    "E501",  # Long lines
+    "E731"   # lambda vs. def
+]
+
+[tool.vulture]
+paths = ["core", "results"]
+exclude = [".tmp"]
+min_confidence = 80
